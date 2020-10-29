@@ -2,3 +2,4 @@ pytest
 freezegun
 memory-profiler
 faker
+pandas
