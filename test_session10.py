@@ -14,7 +14,7 @@ from decimal import Decimal
 
 
 
-README_CONTENT_CHECK_FOR = ["odd_sec_run","log_func","authenticate","time_it","privilege","htmlize"]
+README_CONTENT_CHECK_FOR = ["faker_namedtuple","faker_dict","check_performance","stock_market_data"]
 
 
 def test_readme_exists():
